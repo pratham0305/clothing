@@ -50,6 +50,7 @@ $main-color: black;
 
         &.shrink {
             @include shrinkLabel();
+            
         }
     }
 }
